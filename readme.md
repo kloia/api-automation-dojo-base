@@ -1,6 +1,6 @@
 <h2>Setup</h2>
 
-1. This projects required to Java 8-12 to be able to run. If you are getting ```Nashorn engine``` error it means that your java version is not compatible with karate.
+1. This project is required to Java 8-12 to be able to run. If you are getting ```Nashorn engine``` error it means that your java version is not compatible with karate.
 
 2. Install IntelliJ IDE Community edition or Ultimate edition. 
 
