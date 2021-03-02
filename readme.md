@@ -8,4 +8,4 @@
 
 4. Run the demo.feature and Feature.runner to make sure that your device is ready
 
-5. Take your coffee or tea before the meeting and enjoy the training 
+5. Get your coffee or tea before the meeting and enjoy the training 
