@@ -1,4 +1,5 @@
-Feature: Use this feature for POST request
+Feature: caller feature example
+
   Background:
     * url baseUrl
     * path 'pet'
@@ -9,9 +10,9 @@ Feature: Use this feature for POST request
     {
     "category": {
         "id": 0,
-        "name": "new Pet - 1"
+        "name": "called feature"
       },
-      "name": "doggie",
+      "name": "called feature name",
       "photoUrls": [
         "string"
       ],
@@ -26,6 +27,6 @@ Feature: Use this feature for POST request
     """
     And request requestBody
     When method POST
-    Then status 200
-    And print response
+
+
 
